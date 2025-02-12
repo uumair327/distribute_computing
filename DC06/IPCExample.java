@@ -1,4 +1,4 @@
-package exp6;
+package DC06;
 
 import java.io.*;
 
